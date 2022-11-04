@@ -1,6 +1,0 @@
-#Cara Install di LINUX
-
-Buka terminal
-Ketik "sudo apt-get install python3"
-Ketik "git clone https://github.com/Fasuyaaa/konversi-suhu.git"
-ketik "python3 suhu.py"
