@@ -17,6 +17,7 @@ Terdapat beberapa satuan suhu yang bisa di konversi:
 4. cd konversi-suhu 
 5. ketik "python3 suhu.py"
 
+
 - Cara install di WINDOWS
 1. Download file zip
 2. Extract
