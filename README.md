@@ -29,7 +29,7 @@ Terdapat beberapa satuan suhu yang bisa di konversi:
 WINDOWS | LINUX | MAC OS
 
 ------------------------------------------------------------
-# Lisensi
-Copyright of Fasuyaaa, 2022  
+# Source:
+-
 
 -------------------------------------------------------------
